@@ -1,3 +1,10 @@
+BuilderDao 学习
+https://buidlerdao.notion.site/9bdd3d453125424da63a57ef223273da#d661e0c0e59b41f99bf9e77f257d04d7
+
+## 视频：
+https://www.youtube.com/watch?v=p847H383lQg
+https://www.youtube.com/watch?v=MacUYts54gY
+
 ## BuidlerDao FlashBot
 - 主讲人: Wiger https://twitter.com/JizhouW
 - 代码编写: Wiger https://twitter.com/JizhouW
